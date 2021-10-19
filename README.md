@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on many, many, many projects. Legacy software modernization, cloud native applications refactoring, design of new products, etc.
 - 🌱 I’m currently learning **Go lang, Software Engineering Crafting techniques, ...**
-- 👯 I’m looking to collaborate on **Open-source projects**
-- ⚡ Fun fact: Looking forward to see table tennis in the olympics
+- 👯 I’m used to collaborate on **Open-source projects** (check my forks)
+- ⚡ Fun fact: I play table tennis
 
 Having fun using PHP, Java, Shell Script, Typescript, JavaScript, Angular, PostgreSQL, MySQL, MSSQL, Oracle, SQL, PL / PGSQL, PL / SQL, AWS...
 
