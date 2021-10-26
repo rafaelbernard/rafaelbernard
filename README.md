@@ -23,3 +23,4 @@ I have participated in many projects with integration of legacy systems and thei
 
 
 [![rafaelbernard's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbernard)](https://github.com/anuraghazra/github-readme-stats)
+_Thanks to https://github.com/anuraghazra/github-readme-stats_
