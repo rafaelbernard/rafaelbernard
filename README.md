@@ -23,6 +23,7 @@ I have participated in many projects with integration of legacy systems and thei
 
 
 My github stats:
+<br />
 [![rafaelbernard's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbernard)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 _Stats thanks to https://github.com/anuraghazra/github-readme-stats_
