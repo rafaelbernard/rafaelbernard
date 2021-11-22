@@ -12,7 +12,8 @@ A list of my dev preferences (choosen or unavoidable) for software engineering.
         * Works for lot of applications, more the simple ones, but also works for complex
         * The ecosystem is huge and growing
 * Tools
-    *
+    * SonarCloud
+        * Works for a variety of languages. Has a great coverage for code smells, code quality.
 
 ## JS world
 
@@ -26,8 +27,10 @@ A list of my dev preferences (choosen or unavoidable) for software engineering.
 
 ## Other tools
 
-* Bugsnag: Great tool for software stability. Great error monitoring dashboard and traces.
+* http://bugsnag.com: Great tool for software stability. Great error monitoring dashboard and traces.
   - php, apm, free-tier
+* http://deepsource.io: Quality and velocity tool. Check for patterns, static analysis, code coverage. Does a great code analysis for PHP, but there is no code coverage yet.
+  - php, static analysis, free-tier
 
 ## Credits
 
