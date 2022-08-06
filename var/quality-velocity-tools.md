@@ -9,11 +9,16 @@ A list of my dev preferences (choosen or unavoidable) for software engineering.
         * Complex applications, with multiple domains
         * Works for simple application as well as Laravel is based on lots of symfony components
     * Laravel
-        * Works for lot of applications, more the simple ones, but also works for complex
+        * Works for lots of applications, more the simple ones, but also works for complex
         * The ecosystem is huge and growing
 * Tools
-    * SonarCloud
-        * Works for a variety of languages. Has a great coverage for code smells, code quality.
+  * SonarCloud
+    * Works for a variety of languages. Has a great coverage for code smells, code quality.
+    * Does not have a free tier
+  * Deepsource
+    * patterns, static analysis
+    * has a free tier
+    * no code coverage for php yet
 
 ## JS world
 
