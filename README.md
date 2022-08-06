@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [many, many, many projects](https://rafael.bernard-araujo.com/me/projects). Legacy software modernization, cloud native applications refactoring, design of new products, etc.
-- 🌱 I’m currently learning **Go lang, PHP on lambdas, improving Software Engineering Crafting techniques, ...**
+  - [dev.to articles](https://dev.to/rafaelbernard)
+  - [Blog](https://rafael.bernard-araujo.com)
+- 🌱 I’m currently learning **Go lang, PHP on lambdas, Async PHP (Swoole), improving Software Engineering Crafting techniques, ...**
+- 🌱 [AWS Community Builder since 2022](https://aws.amazon.com/developer/community/community-builders/)
 - 👯 I’m used to collaborate on **Open-source projects** (check my forks)
   - PHP [contributor](https://github.com/php/doc-pt_br/pulls?q=is%3Apr+author%3A%40me): [phpunit](https://github.com/sebastianbergmann/phpunit-documentation-brazilian-portuguese/pulls?q=is%3Apr+author%3A%40me)
 - ⚡ Fun fact: I play table tennis
